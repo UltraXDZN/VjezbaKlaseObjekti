@@ -1,0 +1,7 @@
+D:\Zadace\VjezbaKlaseObjekti\VjezbaKlaseObjekti\bin\Debug\VjezbaKlaseObjekti.exe.config
+D:\Zadace\VjezbaKlaseObjekti\VjezbaKlaseObjekti\bin\Debug\VjezbaKlaseObjekti.exe
+D:\Zadace\VjezbaKlaseObjekti\VjezbaKlaseObjekti\bin\Debug\VjezbaKlaseObjekti.pdb
+D:\Zadace\VjezbaKlaseObjekti\VjezbaKlaseObjekti\obj\Debug\VjezbaKlaseObjekti.csprojAssemblyReference.cache
+D:\Zadace\VjezbaKlaseObjekti\VjezbaKlaseObjekti\obj\Debug\VjezbaKlaseObjekti.csproj.CoreCompileInputs.cache
+D:\Zadace\VjezbaKlaseObjekti\VjezbaKlaseObjekti\obj\Debug\VjezbaKlaseObjekti.exe
+D:\Zadace\VjezbaKlaseObjekti\VjezbaKlaseObjekti\obj\Debug\VjezbaKlaseObjekti.pdb
